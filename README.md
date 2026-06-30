@@ -29,6 +29,7 @@ Delete the PDB & Confirm Removal
 <img width="1366" height="544" alt="image" src="https://github.com/user-attachments/assets/7248b53a-50e6-4a0b-8f32-6737daf5c75d" />
 
 Task 3: Oracle Enterprise Manager (OEM)
+<img width="1344" height="729" alt="image" src="https://github.com/user-attachments/assets/610d48e1-44a2-4334-9ede-58e5444dd8cb" />
 
 ## 4. Challenges and Solutions
 OEM port 5500 was already in use, so I switched to 5501. It took me a minute but I realized later on and made the change.
